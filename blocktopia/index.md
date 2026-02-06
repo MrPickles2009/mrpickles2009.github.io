@@ -73,8 +73,7 @@ MacOS:
    (bind it in Controls if nothing happens)
 3. Select the **correct microphone**  
    ⚠️ Do not trust “Default”
-4. Choose **Push-to-Talk** (recommended)
-5. Speak and confirm the mic level moves
+4. Speak and confirm the mic level moves
 
 ---
 
