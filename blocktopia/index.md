@@ -102,7 +102,7 @@ MacOS:
 ```
 
 2. Place the shader zip in shaderpacks folder _(do not unzip!)_
-3. Enable it in Video Settings → Shaders
+3. Enable it by launching Minecraft, going to Options → Video Settings → Shader Packs and selecting the shader pack from the list
 
 ---
 
