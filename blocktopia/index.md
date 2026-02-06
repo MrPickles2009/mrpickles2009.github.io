@@ -9,7 +9,7 @@
 `blocktopia-5.mc.gg`
 
 🗺 **Live Map:**  
-http://31.214.162.81:9001/
+[31.214.162.81:9001](31.214.162.81:9001)
 
 ---
 
@@ -41,7 +41,7 @@ These mods **must** be installed or you will not be able to join the server.
 
 ### Installation
 
-1. Download required mods [here](files/mods.zip)
+1. Download required mods [here](files/mods.zip) AND this mod [enderscape-fabric-2.1.0+mc1.21.11.jar](https://cdn.modrinth.com/data/btCrWvHr/versions/3cYKvu3m/enderscape-fabric-2.1.0%2Bmc1.21.11.jar) _(it's above GitHub's 100MB limit so you have to download it from their website)_
 2. Open mods folder
 
 Windows:
@@ -80,8 +80,10 @@ MacOS:
 
 ## ✨ Recommended Shader Pack
 
-**Bliss Shader (Chocapic13 edit):**  
-[Download shaderpack](<files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip>)
+_\*to use shader packs you must install Iris [here](#iris-shaders)_
+
+- **Bliss Shader (Chocapic13 edit)**  
+  [Download](<files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip>)
 
 ### Installation
 
