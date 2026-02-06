@@ -9,7 +9,7 @@
 `blocktopia-5.mc.gg`
 
 🗺 **Live Map:**  
-[31.214.162.81:9001](http://31.214.162.81:9001)
+[blocktopia-5.mc.gg:9001/](http://blocktopia-5.mc.gg:9001/)
 
 ---
 
