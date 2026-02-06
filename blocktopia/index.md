@@ -9,7 +9,7 @@
 `blocktopia-5.mc.gg`
 
 🗺 **Live Map:**  
-[blocktopia-5.mc.gg:9001/](http://blocktopia-5.mc.gg:9001/)
+[blocktopia-5.mc.gg:9001](http://blocktopia-5.mc.gg:9001)
 
 ---
 
